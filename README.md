@@ -16,13 +16,7 @@
 
 ### About
 
-**AI Systems Researcher** and **Lead Software Engineer** working at the intersection of **large language models**, **metacognitive agents**, and **production-scale data systems**.
-
-I am pursuing a part-time **Ph.D. in Computer Science** at Christ University (2026–2029), with research focused on **metacognition in LLMs and agents**, **meta-memory architectures**, and **autonomous learning**: how models monitor their own competence, allocate compute, and regulate learning strategies without hand-crafted curricula.
-
-In parallel, I design and operate enterprise AI-integrated platforms at **Ellucian** (real-time CDC pipelines, Flink streaming, Iceberg data lakes, and LLM-powered governance), grounding research questions in systems that actually ship.
-
-> *Research question I'm exploring:* Can an LLM agent with persistent objectives, tools, and storage **autonomously monitor and control its own learning**, not just reflect when prompted?
+**AI Systems Researcher** and **Lead Software Engineer** at **Ellucian**. Ph.D. candidate (Christ University) studying **metacognition**, **meta-memory**, and **autonomous learning** in LLM agents.
 
 📍 Bengaluru, India · Open to remote · [LinkedIn](https://www.linkedin.com/in/alen-joseph/)
 
