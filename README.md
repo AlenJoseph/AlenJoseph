@@ -16,7 +16,7 @@
 
 ### About
 
-**AI Systems Researcher & Lead Software Engineer @ Ellucian, Ph.D. candidate researching metacognition, meta-memory & autonomous learning in LLM agents :) too poor to be a full-time researcher, so the engineering side quest pays for the Ph.D. arc.
+**AI Systems Researcher & Lead Software Engineer @ Ellucian, Ph.D. candidate researching metacognition, meta-memory & autonomous learning in LLM agents :) too poor to be a full-time researcher, so the engineering side quest pays for the Ph.D. arc.**
 
 📍 Bengaluru, India · Open to remote · [LinkedIn](https://www.linkedin.com/in/alen-joseph/)
 
