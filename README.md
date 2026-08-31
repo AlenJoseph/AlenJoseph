@@ -22,6 +22,28 @@
 
 ---
 
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=AlenJoseph&theme=tokyonight&hide_border=true&border_radius=12&ring=7C3AED&fire=A78BFA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8" height="165" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlenJoseph&theme=tokyonight" height="165" alt="Profile Details" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlenJoseph&theme=tokyonight" height="165" alt="Top Languages by Repo" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlenJoseph&theme=tokyonight" height="165" alt="Top Languages by Commit" />
+
+<br/><br/>
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/AlenJoseph.svg?color=7c3aed)
+
+</div>
+
+---
+
 ### Research Interests
 
 | Area | Topics |
@@ -117,28 +139,6 @@ WhatsApp-based cart recovery with a **Claude 3.5** shopping assistant, multi-sta
 **Systems** · Kafka · Flink · Debezium · Iceberg · AWS (MSK, Lambda, Glue, SageMaker)  
 **Languages** · TypeScript · Python · Java  
 **Infra** · Terraform · AWS CDK · Docker · GitHub Actions
-
----
-
-### GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=AlenJoseph&theme=tokyonight&hide_border=true&border_radius=12&ring=7C3AED&fire=A78BFA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8" height="165" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlenJoseph&theme=tokyonight" height="165" alt="Profile Details" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlenJoseph&theme=tokyonight" height="165" alt="Top Languages by Repo" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlenJoseph&theme=tokyonight" height="165" alt="Top Languages by Commit" />
-
-<br/><br/>
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/AlenJoseph.svg?color=7c3aed)
-
-</div>
 
 ---
 
