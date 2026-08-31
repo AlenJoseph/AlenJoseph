@@ -136,7 +136,7 @@ WhatsApp-based cart recovery with a **Claude 3.5** shopping assistant, multi-sta
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/AlenJoseph?color=7c3aed" width="100%" alt="GitHub Contribution Graph" />
+![GitHub Contribution Graph](https://ghchart.rshah.org/AlenJoseph.svg?color=7c3aed)
 
 </div>
 
