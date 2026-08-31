@@ -1,82 +1,159 @@
-# 👋 Hi, I'm Alen Joseph
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate Senior Software Engineer specializing in Cloud & AI, with 7+ years of experience architecting scalable, high-performance systems and delivering AI-powered solutions in production. I excel at bridging cutting-edge research with practical engineering to drive real business impact.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0d1117,1a1b27,7c3aed&height=180&section=header&text=Alen%20Joseph&fontSize=68&fontColor=e2e8f0&animation=twinkling" width="100%"/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=90&lines=AI+Systems+Researcher+%26+Ph.D.+Candidate;LLM+Metacognition+%C2%B7+Meta-Memory+%C2%B7+Autonomous+Learning;Building+research-informed+systems+at+production+scale" alt="Typing SVG" />
 
-## 💼 About Me
+<br/>
 
-- 🔭 **Current Role:** Senior Software Engineer at Ellucian
-- 🌍 **Location:** Bengaluru, India
-- 🧠 **Expertise:** LLM fine-tuning, RAG pipelines, AWS cloud-native architectures, scalable system design, and AI solutions for millions of users.
-- 🚀 **Impact:** Reduced SLA times by 50%, optimized data workflows, and scaled platforms to support 2M+ users.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alen--joseph-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alen-joseph/)
+[![Email](https://img.shields.io/badge/Email-alenjoseph333@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alenjoseph333@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=AlenJoseph&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
 
----
-
-## 🛠️ Skills
-
-- **Languages & Frameworks:** Java Spring Boot, Node.js, Python, React, SQL, TypeScript
-- **Databases:** ChromaDB, Pinecone, PostgreSQL, Redshift
-- **Cloud & Infra:** AWS (SageMaker, Lambda, S3, RDS, CloudFormation, SNS, SQS), Docker, Jenkins, n8n, Terraform
-- **AI/ML:** Hugging Face, LangChain, LLaMA fine-tuning, RAG, Vector Databases
-- **Other:** Agile, CI/CD, Debugging memory leaks, GraphQL, Kafka (Debezium), Microservices
+</div>
 
 ---
 
-## 🌟 Featured Projects
+### About
 
-| Project | Description | Tech Stack |
-| ------- | ----------- | ---------- |
-| **RAG-based Incident Support Agent** | Designed and deployed using AWS SageMaker, ChromaDB, and LangChain. Cut SLA response times by 50% for 2M+ users. | Python, LangChain, AWS, ChromaDB |
-| **AI Emotional Support Chatbot** | Built with LLaMA + LangChain + ChromaDB, deployed on SageMaker to support student users. | Python, LLaMA, LangChain, AWS |
-| **Cloud-Native Automation Solutions** | Automated workflows and system integration using AWS Lambda, SQS, SNS, S3, n8n, and Jenkins. | AWS, n8n, Jenkins, Python |
+**AI Systems Researcher** and **Lead Software Engineer** working at the intersection of **large language models**, **metacognitive agents**, and **production-scale data systems**.
 
----
+I am pursuing a part-time **Ph.D. in Computer Science** at Christ University (2026–2029), with research focused on **metacognition in LLMs and agents**, **meta-memory architectures**, and **autonomous learning** — how models monitor their own competence, allocate compute, and regulate learning strategies without hand-crafted curricula.
 
-## 🏆 Awards & Recognition
+In parallel, I design and operate enterprise AI-integrated platforms at **Ellucian** — real-time CDC pipelines, Flink streaming, Iceberg data lakes, and LLM-powered governance — grounding research questions in systems that actually ship.
 
-- 🥈 Runner-Up – Agentic Hackathon 2025 (Ellucian)
-- 🏅 Top 10 – D3 UST Global Hackathon 2019
+> *Research question I'm exploring:* Can an LLM agent with persistent objectives, tools, and storage **autonomously monitor and control its own learning** — not just reflect when prompted?
+
+📍 Bengaluru, India · Open to remote · [LinkedIn](https://www.linkedin.com/in/alen-joseph/)
 
 ---
 
-## 🎓 Education & Certifications
+### Research Interests
 
-- **MCA (Master of Computer Applications)**, Marian College Kuttikanam (2017–2019)
-- **AWS Certified Developer – Associate**
-- **Red Hat Certified System Administrator (RHCSA)**
+| Area | Topics |
+|------|--------|
+| **LLM Metacognition** | Self-monitoring, calibration, confidence, failure recovery, resource allocation |
+| **Meta-Memory & Agents** | Persistent memory tiers, learning strategy selection, test-time adaptation |
+| **Autonomous Learning** | Self-regulated learning loops, parameter consolidation, self-improving agents |
+| **AI Systems** | RAG, prompt engineering, LLM governance, production reliability at scale |
 
 ---
 
-## 📢 Publications
+### Research & Systems Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 NeuroStream
+*Research · AI Memory Systems*
+
+Brain-inspired **4-tier memory architecture** for LLM agents. Proposes that small models (8B params) can recover **~69% of large-model performance** at **~96% lower compute** through structured meta-memory — connecting cognitive science to efficient agent design.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛡️ [Aegis](https://github.com/AlenJoseph)
+*Open Source · AI Governance*
+
+AI execution governance with **deterministic policy enforcement**, audit logging, and LLM-powered explanations. Integrates Jira webhooks and MCP hooks — a systems lens on trustworthy agent deployment.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 RevnFlow
+*Applied AI · Commerce Analytics*
+
+AI-powered analytics over Shopify, Meta Ads, and Google Ads. Iceberg data lake (Athena + Glue), Lambda microservices — an end-to-end example of **LLM + structured data** in production.
+
+</td>
+<td width="50%" valign="top">
+
+#### 💬 Weasa Commerce
+*Applied AI · Conversational Agents*
+
+WhatsApp-based cart recovery with a **Claude 3.5** shopping assistant, multi-stage messaging, and Bedrock integration — applied research in **goal-directed conversational agents**.
+
+</td>
+</tr>
+</table>
+
+---
+
+### Selected Engineering Work
+
+*How I fund the research: building reliable systems that AI actually runs on.*
+
+| Contribution | Result |
+|---|---|
+| Flink checkpoint state optimization | 483MB → ~2MB **(99.6% ↓)** · S3 I/O 180GB/day → <500MB/day |
+| Schema evolution pipeline (SchemaGateBuffer → SchemaResolver → DDLSyncer) | Zero-downtime DDL sync for multi-tenant CDC |
+| API caching system (200+ endpoints) | **~90% latency reduction** |
+| Kafka Connect / MSK platform (Debezium, Flink, Iceberg) | Enterprise-scale streaming data lake |
+| AI-powered incident support (RAG + SageMaker) | **~50% SLA reduction** for 2M+ users |
+
+---
+
+### Publications
 
 - **Blockchain and Machine Learning-Enabled Predictive Supply Chain Tracking System for Optimized Vaccination Allocation**  
-  [Blockchain and Cryptocurrency Journal, 2023](https://bc-ifsa-journal.com/)
+  *Blockchain and Cryptocurrency Journal*, 2023 — [bc-ifsa-journal.com](https://bc-ifsa-journal.com/)
+
 - **A Quick Reference to Data Structures and Computer Algorithms**  
-  BPB, 2019
+  BPB Publications, 2019
 
 ---
 
-## 🤝 Volunteering & Leadership
+### Education & Credentials
 
-**Treasurer, KCYM (Kottayam, Kerala)**  
-- Managed finances and spearheaded digital transformation initiatives for youth programs.
-- Developed and maintained the official website and a youth survey app for improved engagement.
-- Led the Education Forum and coordinated volunteer efforts impacting hundreds of youth.
-
----
-
-## 📫 Connect With Me
-
-- 📧 [alenjoseph333@gmail.com](mailto:alenjoseph333@gmail.com)
-- 🌐 [LinkedIn](https://linkedin.com/in/alen-joseph)
+- **Ph.D. Computer Science** (Part-Time) — Christ University, Bengaluru *(2026–2029)*  
+  *Research: AI, data engineering, scalable distributed systems*
+- **MCA** — Marian College, Kuttikanam *(2017–2019)*
+- **AWS Certified Developer – Associate** · **RHCSA**
+- 🥈 Runner-Up — Agentic Hackathon 2025 (Ellucian)
 
 ---
 
-## 📈 GitHub Stats
+### Tech Stack
 
-![AlenJoseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlenJoseph&show_icons=true&theme=radical)
+**AI / LLM** · Claude · AWS Bedrock · RAG · Prompt Engineering · Fine-tuning · Vector DBs  
+**Research tooling** · Python · Jupyter · Literature review pipelines · Evaluation design  
+**Systems** · Kafka · Flink · Debezium · Iceberg · AWS (MSK, Lambda, Glue, SageMaker)  
+**Languages** · TypeScript · Python · Java  
+**Infra** · Terraform · AWS CDK · Docker · GitHub Actions
 
 ---
 
-Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to connect or collaborate on impactful projects.
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=AlenJoseph&theme=tokyonight&hide_border=true&border_radius=12&ring=7C3AED&fire=A78BFA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8" height="165" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlenJoseph&theme=tokyonight" height="165" alt="Profile Details" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlenJoseph&theme=tokyonight" height="165" alt="Top Languages by Repo" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlenJoseph&theme=tokyonight" height="165" alt="Top Languages by Commit" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlenJoseph&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd" width="100%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Open to collaborations on LLM metacognition, agent memory, and research-informed AI systems.</sub>
+
+<br/><br/>
+
+**[📧 Email](mailto:alenjoseph333@gmail.com)** · **[💼 LinkedIn](https://www.linkedin.com/in/alen-joseph/)** · **[🐙 GitHub](https://github.com/AlenJoseph)**
+
+</div>
