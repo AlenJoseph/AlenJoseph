@@ -18,11 +18,11 @@
 
 **AI Systems Researcher** and **Lead Software Engineer** working at the intersection of **large language models**, **metacognitive agents**, and **production-scale data systems**.
 
-I am pursuing a part-time **Ph.D. in Computer Science** at Christ University (2026–2029), with research focused on **metacognition in LLMs and agents**, **meta-memory architectures**, and **autonomous learning** — how models monitor their own competence, allocate compute, and regulate learning strategies without hand-crafted curricula.
+I am pursuing a part-time **Ph.D. in Computer Science** at Christ University (2026–2029), with research focused on **metacognition in LLMs and agents**, **meta-memory architectures**, and **autonomous learning**: how models monitor their own competence, allocate compute, and regulate learning strategies without hand-crafted curricula.
 
-In parallel, I design and operate enterprise AI-integrated platforms at **Ellucian** — real-time CDC pipelines, Flink streaming, Iceberg data lakes, and LLM-powered governance — grounding research questions in systems that actually ship.
+In parallel, I design and operate enterprise AI-integrated platforms at **Ellucian** (real-time CDC pipelines, Flink streaming, Iceberg data lakes, and LLM-powered governance), grounding research questions in systems that actually ship.
 
-> *Research question I'm exploring:* Can an LLM agent with persistent objectives, tools, and storage **autonomously monitor and control its own learning** — not just reflect when prompted?
+> *Research question I'm exploring:* Can an LLM agent with persistent objectives, tools, and storage **autonomously monitor and control its own learning**, not just reflect when prompted?
 
 📍 Bengaluru, India · Open to remote · [LinkedIn](https://www.linkedin.com/in/alen-joseph/)
 
@@ -48,7 +48,7 @@ In parallel, I design and operate enterprise AI-integrated platforms at **Elluci
 #### 🧠 NeuroStream
 *Research · AI Memory Systems*
 
-Brain-inspired **4-tier memory architecture** for LLM agents. Proposes that small models (8B params) can recover **~69% of large-model performance** at **~96% lower compute** through structured meta-memory — connecting cognitive science to efficient agent design.
+Brain-inspired **4-tier memory architecture** for LLM agents. Proposes that small models (8B params) can recover **~69% of large-model performance** at **~96% lower compute** through structured meta-memory, connecting cognitive science to efficient agent design.
 
 </td>
 <td width="50%" valign="top">
@@ -56,7 +56,7 @@ Brain-inspired **4-tier memory architecture** for LLM agents. Proposes that smal
 #### 🛡️ [Aegis](https://github.com/AlenJoseph)
 *Open Source · AI Governance*
 
-AI execution governance with **deterministic policy enforcement**, audit logging, and LLM-powered explanations. Integrates Jira webhooks and MCP hooks — a systems lens on trustworthy agent deployment.
+AI execution governance with **deterministic policy enforcement**, audit logging, and LLM-powered explanations. Integrates Jira webhooks and MCP hooks as a systems lens on trustworthy agent deployment.
 
 </td>
 </tr>
@@ -66,7 +66,7 @@ AI execution governance with **deterministic policy enforcement**, audit logging
 #### 📊 RevnFlow
 *Applied AI · Commerce Analytics*
 
-AI-powered analytics over Shopify, Meta Ads, and Google Ads. Iceberg data lake (Athena + Glue), Lambda microservices — an end-to-end example of **LLM + structured data** in production.
+AI-powered analytics over Shopify, Meta Ads, and Google Ads. Iceberg data lake (Athena + Glue), Lambda microservices: an end-to-end example of **LLM + structured data** in production.
 
 </td>
 <td width="50%" valign="top">
@@ -74,7 +74,7 @@ AI-powered analytics over Shopify, Meta Ads, and Google Ads. Iceberg data lake (
 #### 💬 Weasa Commerce
 *Applied AI · Conversational Agents*
 
-WhatsApp-based cart recovery with a **Claude 3.5** shopping assistant, multi-stage messaging, and Bedrock integration — applied research in **goal-directed conversational agents**.
+WhatsApp-based cart recovery with a **Claude 3.5** shopping assistant, multi-stage messaging, and Bedrock integration. Applied research in **goal-directed conversational agents**.
 
 </td>
 </tr>
@@ -99,7 +99,7 @@ WhatsApp-based cart recovery with a **Claude 3.5** shopping assistant, multi-sta
 ### Publications
 
 - **Blockchain and Machine Learning-Enabled Predictive Supply Chain Tracking System for Optimized Vaccination Allocation**  
-  *Blockchain and Cryptocurrency Journal*, 2023 — [bc-ifsa-journal.com](https://bc-ifsa-journal.com/)
+  *Blockchain and Cryptocurrency Journal*, 2023 · [bc-ifsa-journal.com](https://bc-ifsa-journal.com/)
 
 - **A Quick Reference to Data Structures and Computer Algorithms**  
   BPB Publications, 2019
@@ -108,11 +108,11 @@ WhatsApp-based cart recovery with a **Claude 3.5** shopping assistant, multi-sta
 
 ### Education & Credentials
 
-- **Ph.D. Computer Science** (Part-Time) — Christ University, Bengaluru *(2026–2029)*  
+- **Ph.D. Computer Science** (Part-Time), Christ University, Bengaluru *(2026–2029)*  
   *Research: AI, data engineering, scalable distributed systems*
-- **MCA** — Marian College, Kuttikanam *(2017–2019)*
+- **MCA**, Marian College, Kuttikanam *(2017–2019)*
 - **AWS Certified Developer – Associate** · **RHCSA**
-- 🥈 Runner-Up — Agentic Hackathon 2025 (Ellucian)
+- 🥈 Runner-Up, Agentic Hackathon 2025 (Ellucian)
 
 ---
 
